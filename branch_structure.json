@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-994-ba-081-deduplicate-xp-events-by-event-identifier",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-994-ba-081-deduplicate-xp-events-by-event-identifier": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-994-ba-081-deduplicate-xp-events-by-event-identifier",
+    "origin"
+  ]
+}
